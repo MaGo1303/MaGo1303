@@ -1,8 +1,8 @@
-<div align="center">
+﻿<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Gonzalo%20Paniagua&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </div>
 
-<h2 align="center">ðŸŽ“ Desarrollador Full Stack | DAM + SMR</h2>
+<h2 align="center">Desarrollador Full Stack | DAM + SMR</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&width=435&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Java+%7C+SQL;Siempre+aprendiendo+algo+nuevo" />
@@ -10,20 +10,20 @@
 
 ---
 
-## ðŸ‘¨â€ðŸ’» Sobre mÃ­
+## Sobre mi
 
-Soy desarrollador de aplicaciones reciÃ©n titulado en **DAM** (Desarrollo de Aplicaciones Multiplataforma) y **SMR** (Sistemas MicroinformÃ¡ticos y Redes). Apasionado por la tecnologÃ­a, con experiencia en desarrollo web full stack, soporte tÃ©cnico y resoluciÃ³n de problemas.
+Soy desarrollador de aplicaciones recien titulado en **DAM** (Desarrollo de Aplicaciones Multiplataforma) y **SMR** (Sistemas Microinformaticos y Redes). Apasionado por la tecnologia, con experiencia en desarrollo web full stack, soporte tecnico y resolucion de problemas.
 
-- ðŸŒ± **Actualmente:** Buscando oportunidades como desarrollador Full Stack
-- ðŸ’¼ **Experiencia:** Lokexperience (desarrollo web) | Universidad Tai (desarrollo Java + soporte TI)
-- ðŸŽ¯ **Objetivo:** Crecer profesionalmente en una organizaciÃ³n dinÃ¡mica y aplicar mis conocimientos en proyectos reales
+- **Actualmente:** Buscando oportunidades como desarrollador Full Stack
+- **Experiencia:** Lokexperience (desarrollo web) | Universidad Tai (desarrollo Java + soporte TI)
+- **Objetivo:** Crecer profesionalmente en una organizacion dinamica y aplicar mis conocimientos en proyectos reales
 
 ---
 
-## ðŸ› ï¸ Stack TecnolÃ³gico
+## Stack Tecnologico
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F28?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -39,41 +39,37 @@ Soy desarrollador de aplicaciones reciÃ©n titulado en **DAM** (Desarrollo de A
 
 ---
 
-## ðŸ“Œ Proyectos Destacados
+## Proyectos Destacados
 
-### ðŸ”· [RoyalRent](https://github.com/MaGo1303/TFG-UEM-GonzaloVelasco-MiguelJose)
-Plataforma premium para alquiler de vehÃ­culos y servicios de lujo.  
-**Stack:** React 19 + Vite + Node.js + Express + MySQL + JWT  
-`TFG` `Full Stack` `React` `Node.js`
+### RoyalRent
+Plataforma premium para alquiler de vehiculos y servicios de lujo.
+**Stack:** React 19 + Vite + Node.js + Express + MySQL + JWT
 
-### ðŸ”· [AlmaNexus](https://github.com/MaGo1303/AlmaNexus-Website)
-Landing page interactiva con animaciones y diseÃ±o visual.  
-**Stack:** React 18 + Vite + Tailwind CSS  
-`Frontend` `React` `Tailwind` `Animaciones`
+### AlmaNexus
+Landing page interactiva con animaciones y diseno visual.
+**Stack:** React 18 + Vite + Tailwind CSS
 
-### ðŸ”· [SegmentaciÃ³n Ã“sea con YOLOv8](https://github.com/MaGo1303/gregoriomara-onvr)
-Modelo de segmentaciÃ³n de huesos en vÃ­deos usando inteligencia artificial.  
-**Stack:** Python + YOLOv8 + OpenCV  
-`IA` `Computer Vision` `Python`
+### Segmentacion Osea con YOLOv8
+Modelo de segmentacion de huesos en videos usando inteligencia artificial.
+**Stack:** Python + YOLOv8 + OpenCV
 
-### ðŸ”· [Vilches Abogados](https://github.com/MaGo1303/VilchesAbogados)
-Web corporativa con sistema de gestiÃ³n de citas para bufete de abogados.  
-**Stack:** HTML + CSS + JavaScript + Node.js  
-`Web Corporativa` `Full Stack` `HTML/CSS/JS`
+### Vilches Abogados
+Web corporativa con sistema de gestion de citas para bufete de abogados.
+**Stack:** HTML + CSS + JavaScript + Node.js
 
 ---
 
-## ðŸ’¼ Experiencia
+## Experiencia
 
 | Periodo | Empresa | Rol |
 |---------|---------|-----|
-| Mar 2026 â€“ May 2026 | **Lokexperience** | Desarrollo Web (sitios responsivos, SEO) |
-| May 2025 â€“ May 2025 | **Universidad Tai** | Desarrollo Java (gestiÃ³n de usuarios) |
-| Abr 2024 â€“ Jun 2024 | **Universidad Tai** | Desarrollo Java + Soporte TI |
+| Mar 2026 - May 2026 | **Lokexperience** | Desarrollo Web (sitios responsivos, SEO) |
+| May 2025 - May 2025 | **Universidad Tai** | Desarrollo Java (gestion de usuarios) |
+| Abr 2024 - Jun 2024 | **Universidad Tai** | Desarrollo Java + Soporte TI |
 
 ---
 
-## ðŸ“« Contacto
+## Contacto
 
 <p align="center">
   <a href="https://linkedin.com/in/gonzalovelasco">
