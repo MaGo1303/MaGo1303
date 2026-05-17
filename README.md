@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Gonzalo%20Paniagua&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </div>
 
