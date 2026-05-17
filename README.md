@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Gonzalo%20Paniagua&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Gonzalo%20Velasco%20Paniagua&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </div>
 
-<h2 align="center">Desarrollador Full Stack | DAM + SMR</h2>
+<h2 align="center">Desarrollador de Aplicaciones | DAM + SMR</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&width=435&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Java+%7C+SQL;Siempre+aprendiendo+algo+nuevo" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&width=435&lines=Desarrollador+Full+Stack;React+%7C+Next.js+%7C+Java+%7C+SQL;Siempre+aprendiendo+algo+nuevo" />
 </p>
 
 ---
 
 ## Sobre mi
 
-Soy desarrollador de aplicaciones recien titulado en **DAM** (Desarrollo de Aplicaciones Multiplataforma) y **SMR** (Sistemas Microinformaticos y Redes). Apasionado por la tecnologia, con experiencia en desarrollo web full stack, soporte tecnico y resolucion de problemas.
+Soy desarrollador de aplicaciones titulado en **DAM** (Desarrollo de Aplicaciones Multiplataforma) y **SMR** (Sistemas Microinformaticos y Redes). Apasionado por la tecnologia, con experiencia en desarrollo web full stack, soporte tecnico y resolucion de problemas.
 
 - **Actualmente:** Buscando oportunidades como desarrollador Full Stack
 - **Experiencia:** Lokexperience (desarrollo web) | Universidad Tai (desarrollo Java + soporte TI)
