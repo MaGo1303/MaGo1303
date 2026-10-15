@@ -7,23 +7,22 @@
 <h2 align="center">Desarrollador de Aplicaciones | DAM + SMR</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&width=435&lines=Desarrollador+Full+Stack;React+%7C+Next.js+%7C+Java+%7C+SQL;Siempre+aprendiendo+algo+nuevo" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&width=435&lines=Desarrollador+Full+Stack;React+%7C+Next.js+%7C+Java+%7C+SQL;Seguridad+web+y+Ciberseguridad" />
 </p>
 
 ---
 
-## Sobre mi
+## Sobre mí
 
-Soy desarrollador de aplicaciones titulado en **DAM** (Desarrollo de Aplicaciones Multiplataforma) y **SMR** (Sistemas Microinformaticos y Redes). Apasionado por la tecnologia, con experiencia en desarrollo web full stack, soporte tecnico y resolucion de problemas.
+Desarrollador de Aplicaciones (DAM) y técnico en Sistemas Microinformáticos y Redes (SMR), con experiencia en desarrollo web full stack, soporte TI y redes. Tengo proyectos propios desplegados en producción, como RoyalRent y VilchesAbogados. Me interesa de forma especial la seguridad web —análisis de vulnerabilidades y buenas prácticas OWASP— y estoy cursando una formación especializada en ciberseguridad para reforzar esa vertiente.
 
-- **Actualmente:** Buscando oportunidades como desarrollador Full Stack
+- **Actualmente:** Máster en Ciberseguridad (en curso) y buscando oportunidades como desarrollador Full Stack
 - **Experiencia:** Lokexperience (desarrollo web) | Universidad Tai (desarrollo Java + soporte TI)
-- **Objetivo:** Crecer profesionalmente en una organizacion dinamica y aplicar mis conocimientos en proyectos reales
 - **Ubicación:** Alcorcón, Madrid
 
 ---
 
-## Stack Tecnologico
+## Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F28?style=for-the-badge&logo=html5&logoColor=white" />
@@ -48,34 +47,21 @@ Soy desarrollador de aplicaciones titulado en **DAM** (Desarrollo de Aplicacione
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
+- **Frontend:** JavaScript, React, Next.js, HTML, CSS
+- **Backend:** Node.js, Express, Java, Spring Boot
 - **Datos:** SQL, MySQL
 - **IA y visión artificial:** Python, YOLOv8, OpenCV, NumPy
 - **DevOps:** Docker, AWS (certificaciones), despliegue en Vercel
-- **Seguridad:** Pentesting, análisis de vulnerabilidades, OWASP
+- **Seguridad:** Pentesting, análisis de vulnerabilidades y OWASP. Formación especializada en curso.
 
 ---
 
-## Proyectos Destacados
+## Proyectos
 
-### [RoyalRent](https://github.com/MaGo1303/royalrent)
-Plataforma de alquiler de vehículos y servicios premium. React + Vite + Express. **Proyecto Fin de Ciclo (DAM) 2025.**
-**Stack:** React 19 + Vite + Node.js + Express + MySQL + JWT
-
-### [Vilches Abogados](https://github.com/MaGo1303/VilchesAbogados)
-Web corporativa con agenda de citas online. Node.js + Express + MySQL, con autenticación y panel de administración.
-**Stack:** HTML + CSS + JavaScript + Node.js + Express + MySQL
-
-### [YOLOv8 Bone Segmentation](https://github.com/MaGo1303/yolov8-bone-segmentation)
-Segmentación de huesos en vídeo con YOLOv8, OpenCV y NumPy (machine learning aplicado).
-**Stack:** Python + YOLOv8 + OpenCV
-
-### [Magili Web](https://github.com/MaGo1303/magili-web)
-Proyecto web con backend Node.js.
-**Stack:** JavaScript + HTML + CSS + Node.js
-
-### AlmaNexus
-Landing page interactiva con animaciones y diseno visual.
-**Stack:** React 18 + Vite + Tailwind CSS
+- [RoyalRent](https://github.com/MaGo1303/royalrent) — Plataforma de alquiler de vehículos y servicios premium. React + Vite + Express. (Proyecto Fin de Ciclo DAM 2025)
+- [VilchesAbogados](https://github.com/MaGo1303/VilchesAbogados) — Web corporativa con agenda de citas online. Node.js + Express + MySQL, con autenticación y panel de administración.
+- [YOLOv8 Bone Segmentation](https://github.com/MaGo1303/yolov8-bone-segmentation) — Segmentación de huesos en vídeo con YOLOv8, OpenCV y NumPy.
+- [Magili Web](https://github.com/MaGo1303/magili-web) — Proyecto web con backend Node.js.
 
 ---
 
@@ -86,6 +72,12 @@ Landing page interactiva con animaciones y diseno visual.
 | Mar 2026 - May 2026 | **Lokexperience** | Desarrollo Web (sitios responsivos, SEO) |
 | May 2025 - May 2025 | **Universidad Tai** | Desarrollo Java (gestion de usuarios) |
 | Abr 2024 - Jun 2024 | **Universidad Tai** | Desarrollo Java + Soporte TI |
+
+---
+
+## Formación en curso
+
+- **Máster en Ciberseguridad** — Planeta FP, Madrid (2026-2027).
 
 ---
 
