@@ -1,3 +1,5 @@
+# Gonzalo Velasco
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Gonzalo%20Velasco%20Paniagua&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </div>
@@ -17,6 +19,7 @@ Soy desarrollador de aplicaciones titulado en **DAM** (Desarrollo de Aplicacione
 - **Actualmente:** Buscando oportunidades como desarrollador Full Stack
 - **Experiencia:** Lokexperience (desarrollo web) | Universidad Tai (desarrollo Java + soporte TI)
 - **Objetivo:** Crecer profesionalmente en una organizacion dinamica y aplicar mis conocimientos en proyectos reales
+- **Ubicación:** Alcorcón, Madrid
 
 ---
 
@@ -35,27 +38,44 @@ Soy desarrollador de aplicaciones titulado en **DAM** (Desarrollo de Aplicacione
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge&logo=ultralytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-0276A8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
+
+- **Datos:** SQL, MySQL
+- **IA y visión artificial:** Python, YOLOv8, OpenCV, NumPy
+- **DevOps:** Docker, AWS (certificaciones), despliegue en Vercel
+- **Seguridad:** Pentesting, análisis de vulnerabilidades, OWASP
 
 ---
 
 ## Proyectos Destacados
 
-### RoyalRent
-Plataforma premium para alquiler de vehiculos y servicios de lujo.
+### [RoyalRent](https://github.com/MaGo1303/royalrent)
+Plataforma de alquiler de vehículos y servicios premium. React + Vite + Express. **Proyecto Fin de Ciclo (DAM) 2025.**
 **Stack:** React 19 + Vite + Node.js + Express + MySQL + JWT
+
+### [Vilches Abogados](https://github.com/MaGo1303/VilchesAbogados)
+Web corporativa con agenda de citas online. Node.js + Express + MySQL, con autenticación y panel de administración.
+**Stack:** HTML + CSS + JavaScript + Node.js + Express + MySQL
+
+### [YOLOv8 Bone Segmentation](https://github.com/MaGo1303/yolov8-bone-segmentation)
+Segmentación de huesos en vídeo con YOLOv8, OpenCV y NumPy (machine learning aplicado).
+**Stack:** Python + YOLOv8 + OpenCV
+
+### [Magili Web](https://github.com/MaGo1303/magili-web)
+Proyecto web con backend Node.js.
+**Stack:** JavaScript + HTML + CSS + Node.js
 
 ### AlmaNexus
 Landing page interactiva con animaciones y diseno visual.
 **Stack:** React 18 + Vite + Tailwind CSS
-
-### Segmentacion Osea con YOLOv8
-Modelo de segmentacion de huesos en videos usando inteligencia artificial.
-**Stack:** Python + YOLOv8 + OpenCV
-
-### Vilches Abogados
-Web corporativa con sistema de gestion de citas para bufete de abogados.
-**Stack:** HTML + CSS + JavaScript + Node.js
 
 ---
 
@@ -82,6 +102,9 @@ Web corporativa con sistema de gestion de citas para bufete de abogados.
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+- [LinkedIn](https://linkedin.com/in/gonzalovelasco)
+- Email: gonzalovelasco13@gmail.com
 
 ---
 
